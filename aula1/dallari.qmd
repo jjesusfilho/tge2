@@ -1,0 +1,124 @@
+---
+title: "O Estado Constitucional"
+author: "Baseado em Dalmo de Abreu Dallari"
+format: revealjs
+theme: simple
+transition: slide
+editor: visual
+---
+
+## Introdução
+
+-   O conceito de **Estado Constitucional** expressa a ideia de que o poder do Estado está submetido à Constituição.
+-   Representa uma evolução histórica e teórica do conceito de Estado, marcada pela **limitação jurídica do poder**.
+
+## Origem Histórica do Constitucionalismo
+
+-   Surge no contexto das **revoluções burguesas**:
+    -   Revolução Gloriosa (Inglaterra, 1688)
+    -   Independência dos EUA (1776)
+    -   Revolução Francesa (1789)
+-   Caracteriza-se pela luta contra o absolutismo e a busca pela **legalidade e legitimidade** do poder político.
+
+## As Duas Faces do Constitucionalismo
+
+-   **Constitucionalismo liberal**:
+    -   Ênfase na liberdade individual.
+    -   Defesa da propriedade privada.
+    -   Papel limitado do Estado.
+-   **Constitucionalismo social**:
+    -   Ampliação dos direitos sociais, econômicos e culturais.
+    -   Intervenção estatal para promover justiça social.
+
+## O Estado Constitucional como Forma Jurídica do Estado
+
+-   Subordinação do poder do Estado a normas jurídicas fundamentais.
+-   A Constituição deixa de ser um documento simbólico e passa a ser **norma jurídica efetiva**.
+-   Implica mudança na concepção do direito: do formalismo à eficácia.
+
+## Elementos Essenciais do Estado Constitucional
+
+-   **Supremacia da Constituição**
+-   **Separação de Poderes**
+-   **Controle de Constitucionalidade**
+-   **Direitos Fundamentais**
+-   **Legalidade e Publicidade dos Atos do Poder Público**
+
+## Supremacia da Constituição
+
+-   A Constituição ocupa o **topo da hierarquia normativa**.
+-   Todos os atos do Estado devem estar de acordo com ela.
+-   Garante previsibilidade e estabilidade jurídica.
+
+## Separação de Poderes
+
+-   Inspirada em Montesquieu: Legislativo, Executivo e Judiciário.
+-   Objetivo: evitar o abuso de poder pela **divisão e equilíbrio** entre os poderes.
+-   Cada poder é autônomo, mas colabora e controla os outros.
+
+## Controle de Constitucionalidade
+
+-   Mecanismo para preservar a supremacia constitucional.
+-   **Modelos**:
+    -   Difuso (qualquer juiz): originado nos EUA.
+    -   Concentrado (tribunal específico): originado na Áustria.
+-   O Brasil adota **modelo misto**.
+
+## Direitos Fundamentais no Estado Constitucional
+
+-   Base do Estado de Direito moderno.
+-   Não são concessões do Estado, mas **limites ao poder estatal**.
+-   Exemplo de categorias:
+    -   Direitos civis (liberdade, propriedade, segurança).
+    -   Direitos políticos (participação).
+    -   Direitos sociais (educação, saúde, trabalho).
+
+## Constituição como Garantia da Democracia
+
+-   No Estado Constitucional, a democracia é **juridicamente protegida**.
+-   A Constituição estabelece:
+    -   Regras do jogo político.
+    -   Garantias de participação popular.
+    -   Limites ao poder da maioria.
+
+## O Papel do Judiciário
+
+-   Atuação como **guardião da Constituição**.
+-   Interpretação e aplicação das normas constitucionais.
+-   Julgamento de conflitos entre leis infraconstitucionais e a Constituição.
+
+## Transformações Contemporâneas
+
+-   **Expansão do constitucionalismo**: novas constituições e emendas.
+-   **Constitucionalização do Direito**: influência da Constituição em todos os ramos do direito.
+-   **Internacionalização dos direitos fundamentais**: tratados e organismos internacionais.
+
+## Estado Constitucional e Estado Democrático de Direito
+
+-   Conceitos próximos, mas distintos.
+-   O Estado Democrático de Direito combina:
+    -   Princípios do Estado de Direito (legalidade, segurança jurídica).
+    -   Princípios democráticos (participação, igualdade).
+-   A Constituição deve refletir e garantir ambos.
+
+## Tensões e Desafios
+
+-   Conflitos entre vontade popular e limites constitucionais.
+-   Judicialização da política: o papel crescente dos tribunais.
+-   Equilíbrio entre efetividade dos direitos e estabilidade institucional.
+
+## Conclusão
+
+-   O Estado Constitucional representa um avanço civilizatório.
+-   Substitui o poder arbitrário pela legalidade e a previsibilidade.
+-   É uma construção histórica, política e jurídica em constante aperfeiçoamento.
+
+## Para Pensar e Discutir
+
+1.  Todo Estado com Constituição é, necessariamente, um Estado Constitucional?
+2.  Como evitar abusos do Judiciário no controle de constitucionalidade?
+3.  É possível falar em Estado Constitucional em regimes autoritários?
+
+## Referência Bibliográfica
+
+> DALLARI, Dalmo de Abreu. *Elementos de Teoria Geral do Estado*. 30. ed. São Paulo: Saraiva, 2011.

@@ -1,0 +1,202 @@
+---
+title: "Constitucionalismo e Conceito de Constituição"
+subtitle: "Baseado em JOSÉ LEVI MELLO DO AMARAL JUNIOR"
+format: revealjs
+editor: visual
+theme: default
+toc: false
+transition: fade
+slide-number: true
+---
+
+## Introdução
+
+- Constitucionalismo como técnica de limitação do poder.
+- Superação do absolutismo por meio das Revoluções Liberais:
+  - Revolução Gloriosa (1688-1689)
+  - Revolução Americana (1776)
+  - Revolução Francesa (1789)
+- Art. 16 da Declaração dos Direitos do Homem e do Cidadão (1789):
+  > "Toda sociedade em que a garantia dos Direitos não esteja assegurada, nem a separação dos Poderes determinada, não tem Constituição."
+
+## Fundamentos do Constitucionalismo
+
+- Limites ao poder:
+  - **Externo**: Direitos naturais anteriores ao Estado.
+  - **Interno**: Separação de poderes.
+- Constitucionalismo como "técnica da liberdade contra o poder arbitrário" (Matteucci).
+
+## I. Constitucionalismo Antigo
+
+- Conceito clássico de **politeia** (Aristóteles):
+  - Organização das magistraturas e do poder soberano.
+- Democracia ateniense:
+  - Voto direto na ágora
+  - Participação limitada (homens, cidadãos)
+- Controle popular: graphè paranomon.
+
+## Tipologia de Regimes (Aristóteles)
+
+| Governantes | Bem comum        | Interesse próprio   |
+|-------------|------------------|---------------------|
+| Um          | Monarquia        | Tirania             |
+| Poucos      | Aristocracia     | Oligarquia          |
+| Todos       | Politeia         | Demagogia           |
+
+- Demagogia: corrupção da politeia.
+- Referência posterior à "vontade geral" vs. "vontade de todos" (Rousseau).
+
+## Políbio, Cícero e Roma Antiga
+
+- Governo misto: consulado (monarquia), senado (aristocracia), comícios (democracia).
+- SPQR: *Senatus Populusque Romanus*.
+- Diferença entre:
+  - **Potestas** (poder do povo)
+  - **Auctoritas** (autoridade do senado)
+
+## II. Constitucionalismo Medieval
+
+- Feudalismo: relações pessoais entre suseranos e vassalos.
+- Limitação do rei pelo Direito (Bracton):
+  > “Quem tem um associado tem um senhor.”
+- Magna Carta (1215): origem do princípio da autotaxação.
+- Parlamento inglês e surgimento da Câmara dos Comuns.
+
+## Tomás de Aquino e a Hierarquia das Leis
+
+1. Lei eterna (Deus)
+2. Lei divina (revelada)
+3. Lei natural (participação racional)
+4. Lei humana (derivada da razão)
+
+- Dispensa só é legítima se visa o bem comum.
+
+## III. Constitucionalismo Moderno
+
+- Estado nacional e soberano substitui o feudal.
+- Absolutismo: poder acima do Direito (Bodin, Hobbes).
+- Revoluções Liberais:
+  - Redefinem o poder como limitado pelo Direito.
+
+## Gloriosa, Americana e Francesa
+
+- **Gloriosa (1688)**: Parlamento afirma sua supremacia.
+- **Americana (1776)**: Constituição escrita, federalismo, controle judicial.
+- **Francesa (1789)**: Declaração dos Direitos, poder constituinte, soberania nacional.
+
+## Contribuições Específicas
+
+**Inglaterra**:
+- Monarquia constitucional
+- Parlamento bicameral
+- Liberdades civis
+
+**EUA**:
+- Constituição rígida
+- Controle de constitucionalidade
+- Federalismo
+
+**França**:
+- Soberania nacional
+- Direitos subjetivos
+- Reescrita constitucional frequente
+
+## Ciclos do Constitucionalismo (Ruffìa)
+
+### Clássico (1787–1918)
+1. Revolucionário
+2. Napoleônico
+3. Legitimista
+4. Liberal
+5. Democrático
+
+### Recente (1919–)
+1. Democrático racionalizado
+2. (continua...)
+
+
+
+## Ciclos Recentes do Constitucionalismo (Ruffìa)
+
+### 1. Constituições Democráticas Racionalizadas (1919–1937)
+- Ex.: Alemanha (1919), Áustria (1920), Espanha (1931)
+- Buscam racionalizar o sistema parlamentar
+- Críticas:
+  - “Constituições dos professores”
+  - Teóricas e desconectadas da realidade
+
+### 2. Constituições Democrático-Sociais (1945–1975)
+- Pós Segunda Guerra Mundial
+- Reconstrução institucional
+- Ampliação de direitos sociais
+- Ex.: Constituição Alemã de 1949 (Lei Fundamental)
+
+### 3. Constituições Pós-Coloniais
+- África, Ásia e América Latina (déc. 1950–1970)
+- Conjugam elementos modernos e tradicionais
+- Tensão entre democracia e autoritarismo
+
+### 4. Constituições Pós-Autoritárias (1980–2000)
+- Redemocratização: Portugal, Espanha, América Latina, Leste Europeu
+- Priorizam:
+  - Direitos humanos
+  - Separação de poderes
+  - Controle de constitucionalidade
+
+### 5. Constitucionalismo Global e Contemporâneo
+- Integração internacional (direitos humanos, direito global)
+- Preocupação com:
+  - Sustentabilidade
+  - Equidade de gênero e raça
+  - Proteção de minorias
+- Constitucionalismo como processo e prática
+
+## II.1 Conceito Moderno de Constituição
+
+- Constituição como:
+  - Lei fundamental do Estado
+  - Norma jurídica suprema
+- Elementos:
+  - Organização do poder
+  - Garantia de direitos
+  - Fundamento da legalidade
+
+> “O constitucionalismo é uma técnica da liberdade contra o poder arbitrário.” — Nicola Matteucci
+
+## II.2 Constituição: folha de papel ou força normativa?
+
+- Debate clássico:
+  - Constituição **simbólica**: sem efetividade
+  - Constituição **normativa**: com força vinculante
+- Karl Loewenstein: distingue entre constituições normativas, nominais e semânticas
+
+- Perspectiva atual:
+  - Constituição deve ser norma eficaz e aplicável
+  - Papel central do Poder Judiciário e do controle de constitucionalidade
+
+## II.3 Tipologia Constitucional
+
+- Critérios:
+  - **Origem**: outorgada x promulgada
+  - **Forma**: escrita x costumeira
+  - **Alterabilidade**: rígida x flexível
+  - **Conteúdo**: analítica x sintética
+
+- Exemplo:
+  - **Brasil (1988)**: Constituição promulgada, escrita, rígida, analítica
+
+
+## Conclusão
+
+
+- Constitucionalismo é a busca por formas de limitar o poder.
+- Conceito de Constituição está ligado à defesa da liberdade.
+- Importância de persistir e evoluir na democracia.
+- Constitucionalismo permanece necessário:
+  - Para conter abusos de poder
+  - Para garantir direitos fundamentais
+- A Constituição deve ser viva e efetiva
+- Democracia é uma construção contínua
+
+> “A Constituição não é um fim, mas um instrumento de liberdade.” — Dalmo de Abreu Dallari
+

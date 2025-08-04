@@ -1,0 +1,98 @@
+---
+title: "Aula 1 — Conceito de Constituição"
+author: "Ciência Política e Teoria Geral do Estado II — PUC-SP"
+date: "2025"
+format:
+  revealjs:
+    theme: simple
+    slide-number: true
+    transition: slide
+    incremental: true
+---
+
+## Aula 1 — Conceito de Constituição
+
+### Objetivos da Aula
+- Compreender o conceito de Constituição em suas dimensões jurídicas e sociológicas.
+- Identificar a importância da Constituição para a organização do Estado.
+- Analisar diferentes concepções clássicas de Constituição.
+
+## Por que estudar Constituição?
+
+> "A Constituição é o fundamento da ordem jurídica e política de um Estado."
+
+- Organiza o poder político.
+- Define direitos e garantias fundamentais.
+- Estabelece os limites e deveres do Estado.
+
+## Dimensões da Constituição
+
+### Constituição Jurídica
+- Texto normativo supremo do ordenamento.
+- Fundamento de validade das demais normas.
+- Ex: CF/88, Constituição Alemã, Constituição dos EUA.
+
+### Constituição Sociológica
+- Realidade política e social efetiva.
+- Instituições que de fato exercem poder.
+- Ex: Constituição real (Ferdinand Lassalle).
+
+## Constituição como norma fundamental
+
+### Hans Kelsen
+- Constituição como **norma hipotética fundamental**.
+- Base lógica do ordenamento jurídico.
+- Sistema jurídico é hierárquico e piramidal.
+
+\[
+\text{Norma Fundamental} \Rightarrow \text{Constituição} \Rightarrow \text{Leis Ordinárias} \Rightarrow \text{Atos Infralegais}
+\]
+
+## Constituição como expressão do poder político
+
+### Karl Loewenstein
+- Constituição como **instrumento de organização do poder**.
+- Deve refletir a realidade social e política.
+- Distingue:
+  - **Constituição normativa** (eficaz)
+  - **Constituição nominal** (sem aplicação)
+  - **Constituição semântica** (mera legitimação do poder fático)
+
+## Constituição como pacto político
+
+### Jean-Jacques Rousseau
+- Constituição como **contrato social**.
+- Expressão da vontade geral.
+- Fonte da soberania popular.
+
+### Emmanuel Sieyès
+- Introduz o conceito moderno de **poder constituinte**.
+- A nação é titular da soberania e origina a Constituição.
+
+## Constituição: norma ou fato?
+
+| Perspectiva            | Autores                   | Foco principal                        |
+|------------------------|---------------------------|----------------------------------------|
+| Jurídica               | Kelsen, Reale             | Validade normativa                    |
+| Sociológica/Política   | Lassalle, Loewenstein     | Realidade política e eficácia          |
+| Filosófica/Contratual  | Rousseau, Sieyès          | Legitimidade e soberania popular       |
+
+## Debate em sala
+
+- Toda Constituição precisa ser escrita?
+- O que acontece quando a Constituição não corresponde à realidade?
+- A CF/88 é normativa, nominal ou semântica?
+
+## Leituras recomendadas
+
+- **DALLARI, Dalmo de Abreu.** *Elementos de Teoria Geral do Estado*, cap. sobre Constituição.
+- **RANIERI, Nina Beatriz Stocco.** *Teoria do Estado*, cap. 1.
+- **KELSEN, Hans.** *Teoria Pura do Direito*.
+- **LOEWENSTEIN, Karl.** *Teoria da Constituição*.
+- **LASSALLE, Ferdinand.** *A Essência da Constituição*.
+
+## Encerramento
+
+> "A Constituição de um país deve ser mais que um papel; deve ser uma prática social e política viva."
+
+- Na próxima aula: **Finalidade da Constituição** — o que ela pretende garantir e proteger.
