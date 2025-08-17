@@ -1,0 +1,123 @@
+---
+title: "Constitucionalismo e o Conceito de Constituição"
+format:
+  revealjs:
+    theme: serif
+    slide-number: true
+    width: 1920
+    height: 1080
+    chalkboard:
+      theme: chalkboard
+      src: chalkboard.js
+editor: visual
+---
+
+# Introdução ao Constitucionalismo
+
+## Origens e Propósito
+
+- **O que é o Constitucionalismo?** Movimento histórico e político que busca limitar o poder do Estado e garantir a liberdade e os direitos dos cidadãos.
+- **Sua principal motivação:** Superar o absolutismo e o poder ilimitado dos monarcas.
+- **Marcos Históricos Fundamentais:**
+    - Revolução Gloriosa (Inglaterra, 1688-1689): Limitou o poder do monarca em favor do Parlamento.
+    - Revolução Americana (1776): Declarou a independência e estabeleceu uma nova ordem constitucional baseada em direitos.
+    - Revolução Francesa (1789): Proclamou os direitos do homem e a separação dos poderes.
+
+## O Artigo 16 da Declaração de 1789
+
+- **Significado:** Este artigo é um pilar do constitucionalismo moderno.
+- **Citação:** "Toda sociedade em que a garantia dos Direitos não esteja assegurada, nem a separação dos Poderes determinada, não tem Constituição."
+- **Implicação:** Uma "constituição" é mais do que um simples documento; é um instrumento de garantia de direitos e de organização do poder, essencial para a liberdade.
+
+# I. As Eras do Constitucionalismo
+
+## 1.1 O Constitucionalismo na Antiguidade
+
+### Grécia Antiga
+
+- **Politeia:** O termo grego para "constituição" significava a organização geral do Estado, incluindo a distribuição de cargos e o elemento soberano.
+- **Democracia Ateniense:** Era direta e baseada na participação dos cidadãos (excluindo mulheres, escravos e estrangeiros).
+- **Aristóteles e a Classificação dos Governos:**
+    - Formas Puras: Monarquia (governo de um), Aristocracia (governo de poucos), `Politeia` (governo da maioria visando o bem comum).
+    - Formas Corrompidas: Tirania, Oligarquia, Democracia/Demagogia.
+
+### Roma Antiga
+
+- **Governo Misto:** A República Romana é frequentemente citada como um exemplo de governo misto, combinando elementos de diferentes formas de governo.
+    - **Cônsules:** Elemento monárquico.
+    - **Senado:** Elemento aristocrático.
+    - **Comícios da Plebe:** Elemento democrático.
+- **Importância do Direito:** A tradição romana enfatizava a supremacia do direito e que o poder soberano residia no povo.
+
+## 1.2 O Constitucionalismo Medieval
+
+- **Ausência de Estado Centralizado:** A Idade Média foi marcada pelo feudalismo e por uma fragmentação do poder.
+- **Submissão do Rei ao Direito:** O Rei era visto como sujeito, e não acima, do Direito.
+- **Henry of Bracton:** Distinção entre `gubernaculum` (prerrogativa do Rei, que não pode ser julgada) e `iurisdictio` (poder do Rei, que deve ser exercido sob o Direito).
+- **A Magna Carta de 1215:** Um documento histórico que limita o poder do Rei da Inglaterra, estabelecendo direitos e garantias para os nobres. É um exemplo de "pacto" entre o monarca e os súditos.
+
+## 1.3 O Constitucionalismo Moderno
+
+- **O Nascimento do Estado-Nação:** Com a formação dos Estados modernos, surge a necessidade de limitar o poder centralizado.
+- **O Foco na Limitação do Poder:** O constitucionalismo moderno é "militante" ou "polêmico", pois seu principal objetivo é limitar o poder e evitar a concentração de autoridade.
+- **Características Essenciais:** A garantia dos direitos fundamentais e a separação dos poderes são os pilares deste constitucionalismo.
+
+# II. Conceito de Constituição e suas Tipologias
+
+## 2.1 Conceito Moderno de Constituição
+
+- **A Abordagem Jurídica:** Uma Constituição é um conjunto de regras que definem:
+    - A forma do Estado e de governo.
+    - O modo de aquisição e exercício do poder.
+    - Os limites da ação governamental.
+- **Princípios Inegociáveis:** A proteção dos direitos fundamentais e a separação dos poderes.
+
+## 2.2 Constituição: Força Normativa vs. Folha de Papel
+
+### Ferdinand Lassalle e os "Fatores Reais de Poder"
+
+- **Tese:** A Constituição escrita é apenas uma "folha de papel" sem valor se não refletir os "fatores reais de poder" da sociedade (a monarquia, a aristocracia, a burguesia, etc.).
+- **Perspectiva:** Os problemas constitucionais são essencialmente questões de poder, não de direito.
+
+### Konrad Hesse e a Força Normativa da Constituição
+
+- **Tese:** A Constituição possui uma força normativa própria. Ela não é apenas um espelho da realidade, mas um instrumento que busca moldar e ordenar a realidade política.
+- **A "Vontade de Constituição":** Para que a Constituição seja efetiva, é necessária a vontade da comunidade política em vivê-la e cumpri-la.
+
+## 2.3 Tipologia das Constituições
+
+- **Quanto à Forma:**
+    - **Escrita:** Consolidada em um documento único e formal (ex: Brasil).
+    - **Não Escrita (Costumeira):** Baseada em costumes, tradições e decisões judiciais (ex: Reino Unido).
+- **Quanto à Estabilidade:**
+    - **Rígida:** Exige um processo legislativo especial e mais difícil para ser alterada (ex: Brasil).
+    - **Flexível:** Pode ser alterada por leis ordinárias, sem um processo especial.
+- **Quanto à Extensão:**
+    - **Sintética:** Contém apenas as normas essenciais e materialmente constitucionais (ex: EUA).
+    - **Analítica:** Detalha amplamente diversos temas, inclusive aqueles não estritamente constitucionais (ex: Brasil).
+- **Quanto à Origem:**
+    - **Promulgada (ou Democrática):** Elaborada e aprovada por uma Assembleia Constituinte eleita pelo povo.
+    - **Outorgada (ou Ditatorial):** Imposta pelo detentor do poder, sem a participação popular.
+    
+## Classificação Ontológica
+- **Classificação Ontológica (Karl Loewenstein):**
+    - **Normativa:** A Constituição é efetivamente aplicada e respeitada, servindo como guia para o processo político.
+    - **Nominal:** A Constituição tem potencial para ser normativa, mas as condições sociais e políticas ainda não permitem sua plena aplicação.
+    - **Semântica:** A Constituição existe apenas para formalizar a situação de poder já existente, sem qualquer intenção de limitá-lo.
+
+# Conclusão
+
+## A Persistência da Luta por Limitação
+
+- A história do constitucionalismo demonstra a constante busca por mecanismos que limitem o poder e protejam os direitos.
+- A Constituição, em seu sentido mais profundo, é um projeto de sociedade que visa a liberdade e a garantia dos direitos individuais e coletivos.
+- É um convite à reflexão sobre a importância de garantir que a nossa "Constituição de papel" se torne uma "Constituição normativa", efetivamente vivida e respeitada.
+
+## Referências Bibliográficas
+
+* **Fonte Principal:** AMARAL JÚNIOR, José Levi Mello do. "Constitucionalismo e Conceito de Constituição". RDP, Brasília, Volume 18, n. 98, 692-742, abr./jun. 2021.
+* BARROSO, Luís Roberto. *Curso de direito constitucional contemporâneo*.
+* HESSE, Konrad. *A força normativa da Constituição*.
+* LOEWENSTEIN, Karl. *Teoría de la Constitutución*.
+* MCILWAIN, Charles Howard. *Constitutionalism: ancient and modern*.
+* SCHMITT, Carl. *Teoría de la Constitución*.
