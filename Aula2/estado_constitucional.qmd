@@ -1,0 +1,183 @@
+---
+title: "O Estado Constitucional
+format: revealjs
+
+---
+
+## Introdução
+
+- A sucessão dos tipos de Estado constitucional pode ser analisada sob diversos ângulos.
+- O artigo enfoca o **fator político**: a disputa e a conservação do poder.
+- Evolução dos tipos de Estado revela a trajetória da organização do poder político.
+
+## 1. O Estado liberal (século XIX - início do século XX)
+
+- Finalidade: garantir liberdades individuais, políticas e econômicas.
+- Estrutura:
+  - Soberania popular/nacional.
+  - Centralização do poder legislativo.
+- Ideologias fundamentais: individualismo, liberalismo, democracia.
+
+## O liberalismo em detalhe
+
+- **Individualismo**: o Estado é uma associação entre indivíduos.
+- **Liberalismo**: limitação do Estado pelo Direito.
+- **Democracia**: poder originado no povo.
+
+**Constituições clássicas**:
+- EUA (1778), França (1792).
+- Separação de poderes e garantias de direitos individuais.
+
+## Críticas ao Estado liberal
+
+- Participação política censitária e elitista.
+- Desconexão entre política e sociedade.
+- Ausência de igualdade material.
+
+**Tocqueville**:
+- Democracia americana como modelo.
+- Crítica à tirania da maioria e defesa das liberdades.
+
+## Discutindo conceitos: Marcos do liberalismo
+
+- 1776: ano decisivo
+  - Independência americana.
+  - *A Riqueza das Nações* (Adam Smith).
+  - *Décret d'Alard* (liberdade de profissão).
+  - Aplicação da máquina a vapor (Revolução Industrial).
+
+## Discutindo conceitos: Condição feminina
+
+- Mulheres excluídas da cidadania.
+- Sufrágio feminino emerge no fim do século XIX.
+- O feminismo se desenvolve em ondas (sufrágio, direitos sexuais, teorias críticas).
+
+## 2. O Estado social (pós-Primeira Guerra Mundial)
+
+- Também chamado de:
+  - Estado intervencionista
+  - Estado de bem-estar
+  - Welfare State
+- Características:
+  - Manutenção do império da lei e separação de poderes.
+  - Ativismo estatal para garantir direitos sociais (saúde, educação, cultura etc.).
+
+## Diferenças fundamentais em relação ao liberalismo
+
+1. Substituição do absenteísmo por ação positiva do Estado.
+2. Atuação direta na gestão de serviços públicos.
+
+**Exemplos históricos**:
+- Constituição mexicana (1917).
+- Constituição de Weimar (1919).
+
+## Estado social: complexidades e críticas
+
+- Revalorização do Executivo.
+- Expansão das políticas públicas.
+- Críticas à fragilidade institucional (caso da Weimar).
+- Universalização dos direitos sociais (Beveridge Report, Social Security Act).
+
+## Discutindo conceitos: Estado socialista
+
+- Planejamento estatal absoluto.
+- Partido único, ausência de democracia material.
+- Controle sobre recursos econômicos.
+- Inspirado no marxismo e na Revolução Industrial.
+- Exemplo: URSS.
+
+## Discutindo conceitos: Totalitarismo e autoritarismo
+
+- **Totalitarismo**:
+  - Expansão ilimitada do poder.
+  - Supressão de liberdades democráticas.
+- **Autoritarismo**:
+  - Concentração de poder sem justificativa ideológica total.
+
+**Hannah Arendt**:
+- Totalitarismo desagrega instituições sociais.
+- Organiza massas politicamente indiferentes.
+
+## 3. O Estado democrático (segunda metade do século XX)
+
+- Intervencionismo com democracia.
+- Princípios:
+  - Supremacia constitucional.
+  - Irradiação de justiça material.
+  - Direitos fundamentais expandidos.
+  - Constituição incide também sobre relações privadas.
+
+## Consolidação pós-guerra
+
+- Constituições europeias: Bonn (1948), Itália (1948), Espanha (1978), Portugal (1976).
+- Fortes tribunais constitucionais.
+- Valorização dos direitos humanos.
+
+## Transformações internas e internacionais
+
+- Diminuição do espaço público (privatizações).
+- Multiplicação de grupos de interesse (terceiro setor).
+- Redução de gastos militares (exceto EUA).
+- Governança global: ONU, OTAN.
+
+## Discutindo conceitos: Ondas democráticas (Huntington)
+
+- 1ª onda: 1828-1926.
+- 2ª onda: 1943-1962.
+- 3ª onda: desde 1974 (Revolução dos Cravos).
+- Estados alternam entre democracia e autoritarismo.
+
+## Discutindo conceitos: Pluralismo estatal
+
+- Participação da sociedade civil.
+- Desestatização da sociedade.
+- Reconfiguração Estado/sociedade.
+
+## 4. O Estado constitucional internacional do século XXI
+
+- Estado é:
+  - Democrático
+  - Internacional
+  - Constitucional de Direito
+
+- Características:
+  - Compartilhamento de soberania.
+  - Interdependência política, econômica e jurídica.
+
+## Impactos da globalização
+
+- Redes jurídicas transnacionais.
+- Jurisdição universal (caso Pinochet).
+- Proliferação de novos produtores do Direito.
+
+## Discutindo conceitos: Sociedade em rede (Castells)
+
+- Nós interligados por valores e objetivos comuns.
+- Redes ilícitas também se expandem.
+- Redes são fonte de reorganização do poder.
+
+## Discutindo conceitos: Tempo e espaço
+
+- Tempo mundial e ressonância (Zaki Laïdi).
+- Estado virtual (Rosencrance): poder não depende de território.
+- Noção de espaço além do território (Postel-Vinay, Ohmae).
+
+## Discutindo conceitos: O choque de civilizações
+
+- Samuel Huntington:
+  - Conflitos do futuro serão culturais.
+  - Civilizações como unidades de análise.
+- Críticas:
+  - Essencialismo cultural.
+  - Ignora dinâmicas internas.
+
+## Conclusão
+
+- A sucessão de tipos de Estado reflete mudanças profundas nas formas de organização do poder e nas demandas sociais.
+- O Estado constitucional moderno é plural, interdependente e enfrenta desafios decorrentes da globalização e da tecnologia.
+
+## Perguntas e discussão
+
+- Qual tipo de Estado predomina hoje?
+- A sociedade em rede fortalece ou enfraquece a democracia?
+- Como pensar a soberania diante da interdependência global?

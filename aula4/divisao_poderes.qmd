@@ -1,0 +1,144 @@
+---
+title: "Teoria da Divisão dos Poderes"
+subtitle: "Dos antecedentes históricos às revisões contemporâneas"
+author: "Prof. José de Jesus Filho, PhD"
+format: revealjs
+---
+
+## Introdução
+
+- Objetivo: analisar a teoria da divisão dos poderes a partir de seus antecedentes históricos, fundamentos filosóficos e evolução no constitucionalismo contemporâneo.
+- Fontes principais:
+  - Eduardo Domingos Bottallo (2007) – *Teoria da divisão dos poderes: antecedentes históricos e principais aspectos*
+  - Nina Ranieri – *Teoria do Estado: do Estado de Direito ao Estado Democrático de Direito*
+- Importância: compreender como a separação dos poderes se tornou pilar do Estado de Direito e como vem sendo relativizada no século XXI.
+
+## Contexto histórico
+
+- Teoria surge como **reação ao absolutismo monárquico**.
+- Cenários decisivos:
+  - Inglaterra: conflitos entre Coroa e Parlamento (séc. XVII-XVIII).
+  - França: absolutismo dos Bourbons → Revolução de 1789.
+- Bottallo (2007):  
+  *“É na era moderna, mercê da obra de Locke e, sobretudo, de Montesquieu, que a teoria da divisão dos poderes se projeta na plenitude de seu significado técnico e de seu notável valor jurídico.”*
+
+## Absolutismo inglês
+
+- **Elizabeth I (1558-1603)**: Parlamento como mera formalidade.
+- **James I (1603-1625)**: direito divino dos reis, atritos com o Parlamento.
+- **Carlos I (1625-1649)**:
+  - Petição de Direitos (1628): ilegalidade de prisões arbitrárias e impostos sem aprovação.
+  - Dissolução do Parlamento → Guerra Civil.
+- Bottallo: *“O Parlamento era convocado, como simples formalidade, somente quando o soberano pretendia decretar medidas de aceitação duvidosa.”*
+
+## Revolução Puritana e Cromwell
+
+- Guerra Civil (1642-1648).
+- Execução de Carlos I (1649).
+- República parlamentar → ditadura de Cromwell (*Lord Protector*).
+- Instabilidade institucional.
+- Guizot (apud Bottallo): *“Cromwell foi sucessivamente Danton e Bonaparte, mas nunca logrou fundar um sistema.”*
+
+## Revolução Gloriosa (1688-89)
+
+- Deposição de James II.
+- Coroa para Guilherme de Orange e Maria.
+- **Bill of Rights (1689)**:
+  - Limitação do poder régio.
+  - Julgamento por júri, proibição de punições cruéis.
+- Burns (apud Bottallo): *“Seria quase impossível exagerar o significado da Revolução de 1688-89, que assinalou o triunfo final do Parlamento sobre o rei.”*
+
+## Absolutismo francês
+
+- **Richelieu**: centralização política.
+- **Luís XIV**: *L'État c’est moi*.
+- Concentração de riqueza e desigualdade tributária.
+- Ausência de representação efetiva → **Revolução de 1789**.
+- Bottallo: *“Na verdade, o retrato da França era dos mais lamentáveis. A liberdade individual estava à mercê do arbítrio do Rei.”*
+
+## Locke e o governo limitado
+
+- *Segundo Tratado sobre o Governo Civil* (1690).
+- Sociedade política criada para preservar **vida, liberdade e propriedade**.
+- Legislativo como poder supremo.
+- Executivo subordinado, mas com prerrogativa.
+- Locke: *“O direito natural permanece como norma eterna para todos os homens.”*
+- Bottallo: *“Locke pode ser considerado o grande teórico das doutrinas políticas liberais.”*
+
+## Montesquieu e o Espírito das Leis
+
+- *De l’esprit des lois* (1748).
+- Liberdade como meta suprema.
+- Funções: legislativa, executiva, judiciária.
+- Montesquieu: *“Todo homem investido de autoridade tende a abusar dela. É preciso que o poder limite o poder.”*
+- Bottallo: *“Estabelece-se, assim, entre os órgãos fundamentais, um verdadeiro e autêntico equilíbrio (balance de pouvoirs).”*
+
+## Consolidação nos EUA
+
+- Constituição de 1787 → separação de poderes.
+- James Madison (Federalista nº 51):  
+  *“A ambição deve poder contra-atacar a ambição.”*
+- Thomas Jefferson: *“Os poderes estão de tal forma repartidos que nenhum pode ultrapassar seus limites sem ser contido pelos outros.”*
+- Modelo institucional que influenciou o constitucionalismo global.
+
+## Modelo francês pós-1789
+
+- Declaração dos Direitos do Homem e do Cidadão.
+- Constituição de 1791: soberania una e indivisível.
+- Executivo subordinado ao Legislativo.
+- Ranieri: *“Os jacobinos visaram afirmar o poder soberano do povo. O Executivo atuaria como simples emanação do Legislativo.”*
+
+## Benjamin Constant e o Poder Moderador
+
+- *Esquisse d’une Constitution* (1814).
+- Quatro poderes: Legislativo, Executivo, Judiciário, Moderador.
+- No Brasil: Constituição de 1824.
+- Exemplo de adaptação da teoria clássica ao contexto político.
+
+## O conceito de instituições (Ranieri)
+
+- Instituições políticas: controlam o poder.
+- Instituições jurídicas: organizam e estabilizam fenômenos no sistema normativo.
+- Ranieri: *“A separação de poderes, as declarações de direitos e o constitucionalismo são instituições que primariamente estruturaram o Direito e a Política.”*
+
+## A evolução no Estado contemporâneo
+
+- **Hipertrofia do Executivo**.
+- Novos mecanismos de controle:
+  - Tribunais de Contas.
+  - Ministério Público.
+  - Ombudsman.
+- Ranieri: *“A teoria clássica teria deixado de atender a seus objetivos originais, muito embora não se possa dizer que tenha sido inteiramente superada.”*
+
+## Globalização e novas configurações
+
+- Direito internacional e compromissos multilaterais.
+- União Europeia: redistribuição de competências.
+- Ranieri: *“É no plano internacional que aplicações sui generis da teoria vêm sendo adotadas, como na União Europeia, que alterou suas funções clássicas.”*
+
+## Debates conceituais modernos
+
+- Montesquieu: “poderes” → sentido objetivo (funções).
+- Doutrina moderna: melhor falar em “divisão de competências”.
+- Del Vecchio: *“Mais rigorosamente, deveria se falar em distinção de funções.”*
+- Jellinek: *“A unidade do Estado é compatível com a divisão de poderes, entendida como distribuição funcional.”*
+
+## Síntese comparativa
+
+- **Locke**: Legislativo supremo, direitos naturais.
+- **Montesquieu**: checks and balances, equilíbrio institucional.
+- **Constitucionalismo contemporâneo**:
+  - Judicialização da política.
+  - Executivo fortalecido.
+  - Novos mecanismos de controle.
+- Ranieri: *“Muito já se discorreu acerca da adaptabilidade das instituições do Estado liberal ao Estado constitucional contemporâneo.”*
+
+## Conclusão
+
+- Teoria nasceu como reação ao absolutismo.
+- Locke e Montesquieu: pilares da formulação moderna.
+- Adaptações diversas (EUA, França, Brasil).
+- No Estado contemporâneo:
+  - Técnica de limitação do poder.
+  - Necessita de revisões diante de novos desafios.
+- Síntese: a separação de poderes continua sendo fundamento essencial da democracia e do Estado de Direito.

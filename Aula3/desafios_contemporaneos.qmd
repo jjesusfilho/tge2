@@ -1,0 +1,95 @@
+---
+title: "Desafios contemporâneos ao Estado constitucional: Big Techs e nacionalismos"
+format: revealjs
+---
+
+## Introdução
+
+O século XXI coloca desafios inéditos ao Estado constitucional. Dois vetores destacam-se:
+
+- A emergência das Big Techs como atores com poder comparável ao Estado.
+- A ascensão de nacionalismos que questionam a interdependência global.
+
+Apresentaremos autores que analisam esses fenômenos sob o prisma do constitucionalismo.
+
+## Big techs como "soberanos digitais"
+
+Michael Bollerman argumenta que as Big Techs se assemelham a estados soberanos:
+
+- Detêm poder econômico, regulatório e influência sobre infraestruturas digitais.
+- Moldam discurso público e ambientes legais em diversos países.  
+:contentReference[oaicite:1]{index=1}
+
+Simon Chesterman advoga o conceito de “silicon sovereignty”:
+
+- O poder consolidado nas mãos de corporações substitui parte da governança estatal.
+- Desloca-se o foco da ordem internacional em favor de uma **oligarquia digital**.  
+:contentReference[oaicite:2]{index=2}
+
+## Governança algorítmica e autoridade constitucional
+
+Yiyang Mei e Michael J. Broyde propõem:
+
+- A necessidade de legitimação constitucional da governança por algoritmos.
+- Três princípios basilares:
+  1. Poder público deve ser delegado de forma participativa.
+  2. Autoridade distribuída e contestável por comunidades representativas.
+  3. Direito constitucional de resistência a sistemas opressores.  
+:contentReference[oaicite:3]{index=3}
+
+Gilad Abiri defende o conceito de **“Public Constitutional AI”**:
+
+- Governança da IA baseada em Constituição elaborada com participação pública.
+- Instituição de “tribunais de IA” para criar jurisprudência e legitimar decisões algorítmicas.  
+:contentReference[oaicite:4]{index=4}
+
+## Crítica ao constitucionalismo digital tradicional
+
+Artigo editorial desafia os limites do constitucionalismo digital:
+
+- Aponta contradições intrínsecas no conceito.
+- Propõe uma reconstrução via **constitucionalismo societal**, transcendendo o Estado-liberal.  
+:contentReference[oaicite:5]{index=5}
+
+## techno‑nacionalismo e interdependência estatal
+
+Yadong Luo e Ari Van Assche analisam o **techno‑geopolitical uncertainty**:
+
+- A política industrial nos EUA (e.g., CHIPS Act) representa uma virada para o tech‑nacionalismo.
+- Essa lógica prioriza rivalidades geopolíticas e desestabiliza sistemas interdependentes.  
+:contentReference[oaicite:6]{index=6}
+
+## autores em filosofia política constitucional
+
+Alessandro Ferrara (2023):
+
+- Em *Sovereignty Across Generations*, revisita a soberania diante de populismos e desafios transnacionais.
+- Discute como a legitimidade constitucional deve ser concebida para além do presente imediato.  
+:contentReference[oaicite:7]{index=7}
+
+Kim Lane Scheppele:
+
+- Estuda o retrocesso democrático por via legalista (*autocratic legalism*).
+- Introduz o conceito de **“Frankenstate”** para regimes que mantêm aparência democrática, mas desmantelam seu conteúdo.  
+:contentReference[oaicite:8]{index=8}
+
+Ran Hirschl:
+
+- Em *City, State*, analisa como o constitucionalismo se adapta à urbanização extrema e fragmentação política.  
+:contentReference[oaicite:9]{index=9}
+
+## conclusão
+
+O Estado constitucional atual enfrenta tensões complexas:
+
+- **Big Techs** deslocam parte da governança estatal tradicional.
+- A **IA algorítmica** demanda novas formas de legitimação constitucional.
+- **Techno‑nacionalismo** desafia a interdependência global.
+- Filósofos constitucionalistas exploram como reinventar soberania e legitimidade em contextos fragmentados e digitais.
+
+Esses autores fornecem ferramentas essenciais para repensar o constitucionalismo no século XXI.
+
+---
+
+Se desejar, posso transformar esse conteúdo em slides `.qmd`, roteiro para aula, ou mesmo em um artigo comparativo sobre essas tendências. Deseja seguir com algum desses formatos?
+::contentReference[oaicite:10]{index=10}

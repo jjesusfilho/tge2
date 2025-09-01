@@ -32,24 +32,25 @@ Fornecer noções básicas de **Ciência Política** e de **Teoria Geral do Esta
 
 | Semana | Conteúdo por aula | Slides | Material |
 |:-----:|:------------------|:------:|:--------:|
-| 1 | Conceito de Constituição: constituição social e jurídica |  |  |
-| 2 | Finalidade da Constituição |  |  |
-| 3 | Os poderes do Estado na Constituição: a ideia da divisão |  |  |
-| 4 | A Nação na Constituição: legitimidade do Poder Constituinte. Filosofia política e Constituição. Ideologia e realidade |  |  |
-| 5 | O Estado unitário e o Estado federal: o problema das Constituições estaduais |  |  |
-| 6 | A possibilidade de um acordo prático entre diversas filosofias; pluralismo, minorias e consenso |  |  |
-| 7 | O monismo jurídico estatal e seus limites |  |  |
-| 8 | A ideia de ordenamento jurídico completo e coerente: enunciados teóricos e problemas práticos |  |  |
-| 9 | A pluralidade das fontes: costumes da sociedade e o direito não estatal |  |  |
-| 10 | O Direito Natural como direito supraestatal; a ideia de direito internacional; as Declarações Universais de Direitos do Homem e do Cidadão |  |  |
-| 11 | Coexistência de ordenamentos: relações entre Igreja e Estado e seus âmbitos respectivos |  |  |
-| 12 | Superposição de ordenamentos: multinacionais, soberania nacional e direito positivo |  |  |
-| 13 | Seminário: O guardião da Constituição em Carl Schmitt · Seminário: O guardião da Constituição em Hans Kelsen |  |  |
-| 14 | Seminário: Igreja e Constituição · Seminário: Bilateralismo e soberania |  |  |
-| 15 | Seminário: Constituição e direitos humanos |  |  |
-| 16 | Seminário: Crise democrática · Seminário: A separação dos poderes hoje — independência, harmonia ou conflito? |  |  |
-| 17 | Seminário: O papel das Constituições estaduais no pacto federativo brasileiro |  |  |
-| 18 | Seminário: Formas de Estado — unitário, federal e confederal |  |  |
+| 1 | Conceito de Constituição: constituição social e jurídica | [Amaral Jr.](https://jjesusfilho.github.io/tge2/aula1/constitucionalismo_conceito_e_constituicao.html)   [Dallari](https://jjesusfilho.github.io/tge2/aula1/dallari.html)  | [Amaral Jr.](https://drive.google.com/file/d/1zDxvEAxh1lNEMRDNrFODOhBz-sjWdexn/view?usp=drive_link) [Dallari](https://drive.google.com/file/d/17QjpdpU3vVGyJ8mtkuH9d-QI8qQyxmeW/view?usp=drive_link) |
+| 2 | Estado constitucional | [Ranieri](https://jjesusfilho.github.io/tge2/aula2/estado_constitucional.html)| [Estado constitucional](https://drive.google.com/file/d/1TjWNjqlQLl0eRypMd_SvwDCFALUSuxX6/view?usp=drive_link) |
+| 3 | Totalitarismo, Estado democrático, estado internancional e desafios contemporâneos |[Democrático](https://jjesusfilho.github.io/tge2/aula3/estado_democrático.html) [Internacional](https://jjesusfilho.github.io/tge2/aula3/estado_internacional.html) [Desafios](https://jjesusfilho.github.io/tge2/aula3/desafios_contemporaneos.html)|  |
+| 4 | Os poderes do Estado na Constituição: a ideia da divisão | [Divisão de poderes](https://jjesusfilho.github.io/tge2/aula4/divisao_poderes.html) |[Ranieri](https://drive.google.com/file/d/15MN1BndU_X0cfyRl7OKRaYTZblifDpdk/view?usp=drive_link) [Bottallo](https://drive.google.com/file/d/1UaAkMCIwkPWn1XcsCE9Q-Ce3Tm7bmH5r/view?usp=drive_link)  |
+| 5 | A Nação na Constituição: legitimidade do Poder Constituinte. Filosofia política e Constituição. Ideologia e realidade |  |  |
+| 6 | O Estado unitário e o Estado federal: o problema das Constituições estaduais |  |  |
+| 7 | A possibilidade de um acordo prático entre diversas filosofias; pluralismo, minorias e consenso |  |  |
+| 8 | O monismo jurídico estatal e seus limites |  |  |
+| 9 | A ideia de ordenamento jurídico completo e coerente: enunciados teóricos e problemas práticos |  |  |
+| 10 | A pluralidade das fontes: costumes da sociedade e o direito não estatal |  |  |
+| 11 | O Direito Natural como direito supraestatal; a ideia de direito internacional; as Declarações Universais de Direitos do Homem e do Cidadão |  |  |
+| 12 | Coexistência de ordenamentos: relações entre Igreja e Estado e seus âmbitos respectivos |  |  |
+| 13 | Superposição de ordenamentos: multinacionais, soberania nacional e direito positivo |  |  |
+| 14 | Seminário: O guardião da Constituição em Carl Schmitt · Seminário: O guardião da Constituição em Hans Kelsen |  |  |
+| 15 | Seminário: Igreja e Constituição · Seminário: Bilateralismo e soberania |  |  |
+| 16 | Seminário: Constituição e direitos humanos |  |  |
+| 17 | Seminário: Crise democrática · Seminário: A separação dos poderes hoje — independência, harmonia ou conflito? |  |  |
+| 18 | Seminário: O papel das Constituições estaduais no pacto federativo brasileiro |  |  |
+| 19| Seminário: Formas de Estado — unitário, federal e confederal |  |  |
 
 ## metodologia
 
