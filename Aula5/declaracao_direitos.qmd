@@ -1,0 +1,157 @@
+---
+title: "Declarações de direitos"
+format: revealjs
+---
+
+## Introdução
+
+- Tema central: evolução dos direitos fundamentais  
+- A dignidade humana como fundamento  
+- Da tradição jusnaturalista ao constitucionalismo moderno  
+- Desafio contemporâneo: efetividade e universalidade  
+
+::: notes
+Abrir a aula mostrando que os direitos fundamentais não nasceram prontos, mas resultam de um longo processo histórico, filosófico e jurídico.
+:::
+
+## Declarações de direitos
+
+- Século XVIII: momento decisivo  
+- Exemplos:
+  - Declarações da Virgínia, Pensilvânia e Maryland (1776)  
+  - Declaração de Independência Americana (1776)  
+  - Constituição dos EUA (1787) e suas emendas  
+  - Declaração Francesa dos Direitos do Homem e do Cidadão (1789)  
+
+## Características das primeiras declarações
+
+- Afirmação da **autoevidência dos direitos naturais**  
+- Universalidade e igualdade: aplicáveis a todos os homens  
+- Direitos pensados para a vida **em sociedade política**  
+- Autonomia individual estendida a todos os cidadãos  
+
+## Exemplos clássicos
+
+- **Declaração Americana (1776):**  
+  “Todos os homens são criados iguais...”  
+- **Declaração Francesa (1789):**  
+  - Art. 1º – Todos nascem livres e iguais em direitos  
+  - Art. 2º – Direitos: liberdade, propriedade, segurança, resistência à opressão  
+
+## Antecedentes históricos
+
+- Raízes antigas: séculos VIII a II a.C.  
+- Gregos: leis não escritas (*Antígona*, Sófocles)  
+- Documentos medievais:
+  - Cortes de Leão (1188)  
+  - Magna Carta (1215) e revisões  
+  - Petition of Rights (1628)  
+  - Bill of Rights (1689)  
+
+## Novidade iluminista
+
+- Racionalização dos direitos humanos  
+- Universalização: todos os homens, não apenas classes específicas  
+- Lynn Hunt: transformação de “direitos de povos” em **direitos humanos universais**  
+
+## Conceitos e terminologia
+
+- **Direito natural**: direitos absolutos e imutáveis  
+- **Direitos humanos**: direitos universais, independentes de positivação  
+- **Direitos fundamentais**: consagrados constitucionalmente  
+- **Direito público subjetivo**: exige ação do Estado  
+- **Liberdades públicas**: abstenção estatal (primeira geração)  
+
+## Observações conceituais
+
+- Hoje, prevalece a noção de que são:  
+  - Direitos morais (independentes de positivação)  
+  - Direitos preferenciais (prioridade na ordem jurídica)  
+  - Direitos fundamentais (base ética do sistema)  
+
+## Doutrina dos direitos humanos
+
+- Garantia de convivência social pacífica (Hannah Arendt)  
+- Origem: limitar o poder político no Estado  
+- Expansão pós-1945: ONU e sistema internacional  
+- Documentos-chave:  
+  - Declaração Universal de 1948  
+  - Pactos de 1966 (Civis e Políticos; Econômicos, Sociais e Culturais)  
+  - Declaração de Viena (1993)  
+
+## Características dos direitos humanos contemporâneos
+
+- Universais e essenciais  
+- Relativos (históricos e contextuais)  
+- Acumulativos (novos direitos se somam)  
+- Variados e abertos  
+
+## Desafios contemporâneos
+
+- Problema central: **efetividade**  
+- Tensões teóricas: universalismo × relativismo cultural  
+- Boaventura de Sousa Santos: multiculturalismo como conciliação  
+- Nos Estados nacionais:  
+  - Maiores garantias aos direitos civis e políticos  
+  - Menor eficácia dos sociais e difusos  
+
+## Gerações de direitos
+
+- Didaticamente organizadas em “gerações”:  
+  1. Primeira: direitos individuais (liberdade)  
+  2. Segunda: direitos sociais, econômicos e culturais (igualdade)  
+  3. Terceira: direitos coletivos e difusos (solidariedade)  
+  4. Quarta: direitos ligados à tecnologia e diversidade cultural  
+
+## Primeira geração – liberdade
+
+- Direitos individuais, subjetivos  
+- Exigem abstenção do Estado  
+- Exemplos: liberdade de expressão, religião, ir e vir, associação  
+- Declarações clássicas (EUA, França)  
+
+## Segunda geração – igualdade
+
+- Direitos sociais, econômicos e culturais  
+- Exigem ação positiva do Estado  
+- Exemplos: saúde, educação, trabalho, previdência  
+- Fundamento: igualdade e solidariedade  
+- Primeiros marcos: Constituição Mexicana (1917), Constituição de Weimar (1919)  
+
+## Terceira geração – solidariedade
+
+- Direitos difusos ou coletivos  
+- Fundamento: fraternidade, qualidade de vida  
+- Exemplos:  
+  - Paz, desenvolvimento, meio ambiente  
+  - Patrimônio comum da humanidade  
+  - Autodeterminação dos povos  
+  - Comunicação (Unesco, anos 1980)  
+
+## Quarta geração – proteção e diversidade
+
+- Direitos ligados a novas tecnologias e riscos globais  
+- Exemplos:  
+  - Identidade genética  
+  - Privacidade e proteção de dados  
+  - Diversidade cultural frente à globalização  
+- Conceito de “direitos circulares” (Vieira de Andrade): segurança, diversidade, solidariedade  
+
+## Palavras-chave da evolução histórica
+
+- **Acumulação** – novos direitos não substituem os antigos  
+- **Variedade** – multiplicidade de bens e sujeitos  
+- **Abertura** – possibilidade de reconhecer direitos implícitos  
+
+
+
+## Conclusão
+
+- A dignidade humana como núcleo dos direitos fundamentais  
+- Da autoevidência jusnaturalista à positivação constitucional e internacional  
+- Expansão contínua: liberdade → igualdade → solidariedade → proteção/diversidade  
+- Desafio maior: **efetividade prática**  
+
+::: notes
+Fechar a aula reforçando que os direitos fundamentais são processo em construção e dependem de lutas políticas, sociais e jurídicas para sua concretização.
+:::
