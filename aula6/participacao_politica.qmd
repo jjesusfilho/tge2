@@ -1,0 +1,91 @@
+---
+title: "Participação Política em Habermas e Outros Autores"
+format: revealjs
+---
+
+## Introdução
+
+-   O conceito de participação política é central para a teoria democrática.
+-   Habermas desenvolve a ideia de participação vinculada à deliberação e à esfera pública.
+-   Outros autores (Pateman, Dahl, Verba & Nie, Barber, Dryzek) oferecem visões complementares.
+
+## Habermas: Contexto
+
+-   Texto inicial: *Über den Begriff der politischen Beteiligung* (1961).
+-   Posteriormente aprofundado em *Mudança Estrutural da Esfera Pública* (1962) e *Direito e Democracia* (1992).
+-   A participação é vista como processo comunicativo que legitima decisões.
+
+## Habermas: Conceito de Participação
+
+-   Não se restringe ao voto, mas inclui todas as formas de formação da opinião e da vontade política.
+-   Distingue entre:
+    -   **Participação convencional** (voto, partidos, sindicatos).
+    -   **Participação não convencional** (protestos, movimentos sociais).
+-   Ênfase na **deliberação racional e inclusiva**.
+
+## Habermas: Esfera Pública
+
+-   Espaço social de debate e comunicação livre de coerções.
+-   Papel dos cidadãos em influenciar o sistema político por meio de argumentos.
+-   Importância da comunicação horizontal, não apenas institucional.
+
+## Habermas: Autonomia Pública e Privada
+
+-   **Autonomia privada**: direitos individuais de liberdade.
+-   **Autonomia pública**: direitos de participação política.
+-   Cooriginariedade: uma só existe plenamente se a outra também for garantida.
+
+## Carole Pateman: Participação e Democracia
+
+-   *Participation and Democratic Theory* (1970).
+-   Crítica ao modelo elitista (Schumpeter, Dahl).
+-   Defende que a participação tem efeitos educacionais e de empoderamento cívico.
+-   Enfatiza a importância da participação direta em organizações de base.
+
+## Verba & Nie: Formas de Participação
+
+-   *Participation in America* (1972).
+-   Tipologia de formas de participação:
+    -   Voto
+    -   Atividades de campanha
+    -   Contato com autoridades
+    -   Ativismo comunitário
+-   Mostram desigualdades de acesso e recursos que afetam quem participa.
+
+## Robert Dahl: Poliarquia
+
+-   *Polyarchy* (1971).
+-   Define a democracia como regime de contestação pública + participação inclusiva.
+-   Participação é direito básico, mas depende de instituições estáveis.
+-   Importância da **igualdade política** como fundamento da democracia.
+
+## Benjamin Barber: Democracia Forte
+
+-   *Strong Democracy* (1984).
+-   Crítica ao modelo liberal representativo.
+-   Defende democracia como prática cotidiana de cidadãos ativos.
+-   Participação não é apenas instrumento, mas finalidade da vida democrática.
+
+## John Dryzek: Democracia Deliberativa
+
+-   *Discursive Democracy* (1990).
+-   Complementa Habermas enfatizando pluralidade de arenas deliberativas.
+-   A participação se dá em múltiplos espaços discursivos, não só na esfera pública institucional.
+-   Reforça o papel de movimentos sociais e redes transnacionais.
+
+## Síntese Comparativa
+
+-   **Habermas**: foco na deliberação e cooriginariedade entre direitos.
+-   **Pateman**: participação como empoderamento e aprendizado.
+-   **Verba & Nie**: empiria sobre desigualdades na participação.
+-   **Dahl**: democracia como poliarquia (participação + contestação).
+-   **Barber**: ideal de democracia forte, cotidiana e transformadora.
+-   **Dryzek**: pluralidade discursiva e movimentos sociais.
+
+## Conclusão
+
+-   A participação política é multifacetada: pode ser convencional, não convencional, deliberativa, direta.
+-   Habermas fornece base normativa para compreender a legitimidade democrática pela deliberação.
+-   Outros autores ampliam o debate: efeitos da participação, desigualdades, democracia direta e discursiva.
+-   Tema central e atual diante de crises de representação e novas formas de engajamento político.
+

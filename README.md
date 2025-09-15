@@ -37,7 +37,7 @@ abordagem **histórico-sociológica** e **jurídico-política**.
 | 3 | Totalitarismo, Estado democrático, estado internancional e desafios contemporâneos | [Democrático](https://jjesusfilho.github.io/tge2/aula3/estado_democrático.html) [Internacional](https://jjesusfilho.github.io/tge2/aula3/estado_internacional.html) [Desafios](https://jjesusfilho.github.io/tge2/aula3/desafios_contemporaneos.html) |  |
 | 4 | Os poderes do Estado na Constituição: a ideia da divisão | [Divisão de poderes](https://jjesusfilho.github.io/tge2/aula4/divisao_poderes.html) | [Ranieri](https://drive.google.com/file/d/15MN1BndU_X0cfyRl7OKRaYTZblifDpdk/view?usp=drive_link) [Bottallo](https://drive.google.com/file/d/1UaAkMCIwkPWn1XcsCE9Q-Ce3Tm7bmH5r/view?usp=drive_link) |
 | 5 | As declarações de Direitos | [Declarações de direitos](https://jjesusfilho.github.io/tge2/aula5/declaracao_direitos.html) | [Nina Ranieri](https://drive.google.com/file/d/14fc9ttXmVKyjVTHbTTXU6StRG9MiDtoS/view?usp=drive_link) |
-| 6 | O Estado unitário e o Estado federal: o problema das Constituições estaduais |  |  |
+| 6 | Participação política e sistemas eleitorais | [Participacao política](https://jjesusfilho.github.io/tge2/aula6/participacao_politica.html) [Partidos políticos](https://jjesusfilho.github.io/tge2/aula6/partidos_politicos.html) | [Pasquino](https://drive.google.com/file/d/13MnX8xUGps2W7w2WG_35FeC4m7HSG1vq/view?usp=drive_link) |
 | 7 | A possibilidade de um acordo prático entre diversas filosofias; pluralismo, minorias e consenso |  |  |
 | 8 | O monismo jurídico estatal e seus limites |  |  |
 | 9 | A ideia de ordenamento jurídico completo e coerente: enunciados teóricos e problemas práticos |  |  |

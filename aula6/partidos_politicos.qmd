@@ -1,0 +1,191 @@
+---
+title: "Partidos políticos segundo Pasquino"
+format: revealjs
+---
+
+## Introdução geral
+- Os partidos políticos são instituições centrais nas democracias modernas.
+- Gianfranco Pasquino analisa sua origem, tipos, sistemas, funções e razões de sobrevivência.
+- Objetivo da aula: compreender o papel e a importância dos partidos políticos.
+
+---
+
+## Parte I – A origem dos partidos
+
+## Primeiras formas de organização
+- Antes dos partidos modernos:
+  - Facções nas cortes e parlamentos.
+  - Clubes políticos e associações urbanas.
+- Exemplo: Whigs e Tories (Inglaterra, século XVII).
+- No Brasil: Liberais e Conservadores no Império.
+
+## Partidos e a representação
+- Expansão do sufrágio no século XIX impulsiona partidos organizados.
+- Papel: articular interesses sociais e mobilizar eleitores.
+- Relação direta entre democratização e institucionalização partidária.
+
+## Síntese da origem
+- Partidos nascem da necessidade de:
+  - Representar interesses coletivos.
+  - Estruturar competição eleitoral.
+  - Oferecer estabilidade política.
+- Origem multifacetada: fatores sociais e institucionais.
+
+---
+
+## Parte II – Tipos de partidos
+
+## Partidos de notáveis
+- Baseados em elites influentes.
+- Estrutura frágil e dependência de lideranças.
+- Predominantes em contextos de sufrágio restrito.
+
+## Partidos de massa
+- Surgem com ampliação do voto.
+- Organização sólida e permanente.
+- Base social ampla e militante.
+- Visam integrar cidadãos à vida política.
+
+## Partidos de quadros
+- Organização mais seletiva e restrita.
+- Valorizam qualidade dos membros, não quantidade.
+- Atuação voltada à arena parlamentar.
+
+## Partidos de eleitores
+- Estruturas flexíveis, ativadas em campanhas.
+- Priorizam eficácia na conquista de votos.
+- Funcionam de modo intermitente.
+
+## Partidos de integração
+- Envolvem cidadãos em várias dimensões da vida política.
+- Identidade política forte e duradoura.
+- Mobilização contínua, não apenas eleitoral.
+
+## Síntese dos tipos
+- **Notáveis**: frágeis, elitistas.  
+- **Massa**: organizados, de base ampla.  
+- **Quadros**: seletivos e restritos.  
+- **Eleitores**: voltados à disputa eleitoral.  
+- **Integração**: permanentes e identitários.  
+
+---
+
+## Parte III – Sistemas de partidos
+
+## O que é um sistema de partidos?
+- Conjunto de partidos que interagem num regime político.
+- Importa considerar:
+  - Relações de competição e cooperação.
+  - Regras institucionais.
+  - Peso relativo dos partidos.
+
+## Sistema unipartidário
+- Apenas um partido é legalizado.
+- Monopólio da representação.
+- Ausência de competição real.
+- Exemplo: China, Cuba.
+
+## Sistema bipartidário
+- Dois partidos dominam a cena política.
+- Alternância estável no poder.
+- Oferece clareza de opções ao eleitor.
+- Exemplo: EUA, Reino Unido.
+
+## Sistema multipartidário
+- Mais de dois partidos relevantes.
+- Necessidade de coalizões para maiorias.
+- Pode gerar instabilidade, mas amplia representatividade.
+- Exemplo: Brasil pós-1988, Alemanha.
+
+## O caso brasileiro
+- Multipartidarismo fragmentado.
+- Grande número de partidos com representação no Congresso.
+- Governabilidade depende de amplas coalizões.
+
+## Federações partidárias
+- Criadas pela Lei nº 14.208/2021.
+- Dois ou mais partidos atuam como um só, por no mínimo 4 anos.
+- Funcionamento: estatuto comum, disciplina unificada.
+- Exemplos:
+  - Federação Brasil da Esperança (PT, PCdoB, PV).
+  - PSOL-Rede.
+  - PSDB-Cidadania.
+- Objetivo: reduzir fragmentação e fortalecer blocos estáveis.
+
+---
+
+## Parte IV – Funções dos partidos
+
+## Representação
+- Canalizam interesses sociais para dentro do Estado.
+- Transformam demandas em propostas políticas.
+- Conectam sociedade e governo.
+
+## Agregação de interesses
+- Selecionam e organizam reivindicações.
+- Transformam conflitos em programas políticos.
+- Buscam compatibilizar demandas contraditórias.
+
+## Recrutamento político
+- Selecionam lideranças e candidatos.
+- Fornecem quadros técnicos e dirigentes.
+- Papel central na profissionalização da política.
+
+## Socialização política
+- Educam e formam identidades políticas.
+- Orientam valores cívicos.
+- Integram cidadãos à vida democrática.
+
+## Organização da competição
+- Estruturam o processo eleitoral.
+- Oferecem opções claras aos eleitores.
+- Garantem que a disputa se mantenha dentro das regras.
+
+## Exercício do poder
+- Implementam programas políticos.
+- Coordenam ação parlamentar e executiva.
+- Exercem funções de governo.
+
+## Controle político
+- Atuam na oposição como fiscalizadores.
+- Criticam, denunciam e controlam governos.
+- Contribuem para equilíbrio democrático.
+
+## Síntese das funções
+- Representar, agregar, recrutar, socializar, organizar, governar, controlar.
+- Mostram a centralidade dos partidos na democracia.
+
+---
+
+## Parte V – Por que sobrevivem os partidos?
+
+## Introdução
+- Apesar das crises e críticas, partidos continuam existindo.
+- Pergunta de Pasquino: **por que sobrevivem?**
+
+## Necessidade de representação
+- Nenhum substituto cumpre essa função com eficácia.
+- Canais de mediação entre cidadãos e Estado permanecem indispensáveis.
+
+## Estruturação da competição
+- A disputa pelo poder precisa de ordem e regras.
+- Os partidos organizam a competição eleitoral.
+
+## Formação de governos
+- Partidos são essenciais para formar maiorias e garantir governabilidade.
+- Sem partidos, não há coordenação eficaz no parlamento.
+
+## Integração e identidade
+- Oferecem referência estável ao eleitor.
+- Estruturam identidades políticas de longo prazo.
+
+## Adaptação às mudanças
+- Transformam-se com o tempo:
+  - Reformulam programas.
+  - Renovam lideranças.
+  - Ajustam-se a novos contextos sociais e tecnológicos.
+
+## Conclusão geral
+- Partidos sobrevivem porque suas funções são **insubstituíveis**.
+- Representam, organizam, governam e integram.
+- Mesmo em crise, continuam pilares do sistema democrático.
