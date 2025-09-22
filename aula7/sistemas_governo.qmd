@@ -1,0 +1,278 @@
+
+---
+title: "Presidencialismo e Parlamentarismo"
+format: revealjs
+---
+
+## A importância das instituições
+
+A questão sobre qual sistema de governo é melhor acompanha processos de democratização.  
+Foi essencial nas transições políticas recentes, quando se elaboraram novas constituições.  
+As instituições definem:  
+- Como são selecionadas autoridades executivas e legislativas  
+- Qual sistema eleitoral será adotado  
+- Como se distribuem competências entre Executivo e Legislativo  
+- A quem os governos prestam contas  
+- Quais os instrumentos de emergência (decretos, medidas provisórias etc.)  
+- Como evitar a fragmentação excessiva de partidos  
+
+## O papel das instituições
+
+- Para a ciência política contemporânea, instituições são fundamentais:  
+  - Permitem a cooperação entre grupos sociais  
+  - Estimulam determinados comportamentos de eleitores, políticos e partidos  
+  - Desencorajam outros comportamentos  
+- Diferentes arranjos institucionais podem facilitar ou dificultar a governabilidade  
+
+## Difusão internacional
+
+- Cada país democrático tem uma organização política própria, moldada por sua história.  
+- Há, contudo, ampla **difusão de modelos institucionais**:  
+  - A Constituição dos EUA inspirou-se em Montesquieu e no governo inglês  
+  - A Constituição portuguesa de 1976 se inspirou no semipresidencialismo francês  
+  - A Constituição espanhola de 1978 adotou a “moção de censura construtiva” do modelo alemão  
+
+## Avaliação dos sistemas
+
+- As “famílias” de sistemas democráticos têm sido comparadas nos últimos anos.  
+- Hoje há muito mais dados empíricos que permitem avaliar seus pontos fortes e fracos.  
+- Mesmo assim, não há conclusões definitivas sobre qual sistema é “superior”.  
+- O estudo dos sistemas busca orientar escolhas institucionais, sobretudo em novas democracias.
+
+
+## Presidencialismo: definição
+
+O presidencialismo é o sistema de governo em que:  
+- Há **um presidente** que acumula as funções de chefe de Estado e chefe de governo.  
+- O presidente é **eleito pelo voto popular**.  
+- Seu mandato, assim como o dos parlamentares, é **fixo** e só pode ser interrompido por impeachment.  
+- O ministério é indicado pelo presidente e responde a ele, não ao Legislativo.  
+
+## Separação de poderes
+
+- O presidencialismo tem origem nos Estados Unidos, sendo chamado também de sistema de **separação de poderes**.  
+- Presidente e Congresso são eleitos de forma independente.  
+- Cada poder desempenha suas funções com autonomia.  
+- No presidencialismo, o Legislativo **não responde pela implementação de políticas públicas**, que é tarefa exclusiva do Executivo.  
+
+## Governo dividido e negociação
+
+- Nos EUA pode ocorrer o chamado **“governo dividido”**, quando o presidente pertence a um partido e o Congresso é controlado por outro.  
+- Isso não significa paralisia: é comum a negociação e até cooperação bipartidária.  
+- Os partidos norte-americanos, em geral, são pragmáticos e pouco coesos, o que facilita acordos.  
+- No Brasil, com multipartidarismo, prevalece o **presidencialismo de coalizão**: presidentes buscam apoio de vários partidos em troca de participação no governo.  
+
+## Produção acadêmica
+
+- Durante muito tempo, a ciência política estudou mais o **parlamentarismo** do que o presidencialismo.  
+- Esse quadro mudou a partir do trabalho de **Juan Linz**, no final dos anos 1980, que questionou a adequação do presidencialismo para a consolidação democrática.  
+- Desde então, houve grande produção acadêmica sobre:  
+  - Diversidade dos sistemas presidenciais  
+  - Poderes formais e informais dos presidentes  
+  - Papel do sistema partidário na governabilidade  
+
+## Poderes do presidente
+
+- Os presidentes possuem **poderes reativos e proativos**:  
+  - **Veto** (total ou parcial, dependendo do país).  
+  - **Decretos com força de lei** (como medidas provisórias no Brasil).  
+  - **Iniciativa legislativa** em áreas críticas, como orçamento, defesa, política militar e tributária.  
+- O grau desses poderes varia conforme o desenho constitucional de cada país.  
+
+## Presidencialismo e partidos
+
+- O funcionamento do presidencialismo depende fortemente do sistema partidário:  
+  - **Fragmentação** pode gerar presidentes minoritários e dificuldade de governar.  
+  - **Disciplina partidária fraca** leva a negociações individuais com parlamentares.  
+  - **Disciplina forte** concentra as negociações nos líderes partidários.  
+- Para evitar paralisia, muitas constituições recentes ampliaram os poderes dos presidentes.  
+
+## Parlamentarismo: definição
+
+O parlamentarismo é o sistema de governo em que:  
+- O governo tem **legitimação indireta**: surge da assembleia legislativa.  
+- O gabinete é responsável perante o parlamento.  
+- O governo sobrevive enquanto mantiver a confiança da maioria.  
+- A assembleia pode ser dissolvida antes do término do mandato, convocando-se novas eleições.  
+- Além do chefe de governo (primeiro-ministro), existe um chefe de Estado (monarca ou presidente) com funções simbólicas.  
+
+## Integração entre Executivo e Legislativo
+
+- O parlamentarismo busca uma integração orgânica entre os dois poderes.  
+- Em alguns casos, como na Grã-Bretanha, há quase uma **fusão de poderes**.  
+- Executivo e Legislativo surgem da mesma base, o Parlamento.  
+- O gabinete é sustentado e, eventualmente, derrubado pela maioria parlamentar.  
+
+## Diversidade de modelos
+
+- O parlamentarismo não é uniforme, há **múltiplas configurações**:  
+  - Modelo britânico: bipartidarismo, disciplina partidária rígida, primeiro-ministro dominante.  
+  - Modelo alemão: multipartidarismo, necessidade de coalizões, voto de desconfiança construtivo.  
+  - Modelo italiano: governos de curta duração, com instabilidade semelhante ao presidencialismo brasileiro.  
+- A configuração do sistema partidário é determinante para o funcionamento do parlamentarismo.  
+
+## O gabinete
+
+- O gabinete exerce o poder coletivamente.  
+- Pode assumir três formatos principais:  
+  - **Primeiro entre desiguais**: primeiro-ministro com supremacia sobre os demais ministros.  
+  - **Primeiro entre desiguais moderados**: primeiro-ministro com liderança relativa, mas sem controle absoluto.  
+  - **Primeiro entre iguais**: gabinete formado por coalizões, em que não há hierarquia clara.  
+
+## Identificabilidade e disciplina
+
+- No modelo britânico, o eleitor sabe antecipadamente quem será o primeiro-ministro, conforme o partido vencedor.  
+- O sistema é marcado por forte disciplina partidária, que garante a estabilidade do governo.  
+- Em sistemas multipartidários, como o alemão, há menos previsibilidade: o primeiro-ministro depende das negociações pós-eleitorais.  
+
+## Estabilidade e coalizões
+
+- O parlamentarismo pode gerar estabilidade quando há partidos majoritários ou coalizões sólidas.  
+- Mas em contextos de fragmentação partidária, pode levar ao chamado **assembleísmo**:  
+  - Gabinetes frágeis e de curta duração.  
+  - Negociações constantes e instabilidade ministerial.  
+- Reformas institucionais (como a moção de censura construtiva na Alemanha e na Espanha) foram criadas para reduzir esse risco.  
+
+## Governo de assembleia: definição
+
+- O governo de assembleia é uma forma de parlamentarismo com **forte fragmentação partidária**.  
+- Caracteriza-se por:  
+  - Gabinetes frágeis, dependentes de múltiplas coligações.  
+  - Mudanças frequentes de governo.  
+  - Falta de disciplina partidária.  
+  - Responsabilidade política difusa.  
+
+## Perigos do assembleísmo
+
+- A assembleia torna-se **soberana**, criando e derrubando gabinetes ao sabor da conjuntura.  
+- O Executivo torna-se submisso ao Legislativo, sem condições de governar com estabilidade.  
+- A política passa a ser marcada por chantagens constantes entre partidos.  
+- O verdadeiro poder desloca-se para a burocracia estatal.  
+
+## Exemplos históricos
+
+- **França**: as III e IV Repúblicas foram exemplos clássicos de assembleísmo.  
+- Gabinetes caíam com frequência, incapazes de sustentar políticas duradouras.  
+- Esse modelo levou a crises de governabilidade e ao descrédito das instituições.  
+
+## Condições que favorecem o assembleísmo
+
+- Multipartidarismo extremo, sem partido predominante.  
+- Baixa ou nenhuma disciplina partidária.  
+- Uso excessivo de moções de desconfiança.  
+- Coalizões instáveis e constantemente ameaçadas de ruptura.  
+
+## Críticas de Sartori
+
+Segundo Giovanni Sartori, o governo de assembleia apresenta:  
+1. Gabinete fraco, incapaz de liderar o parlamento.  
+2. Poder político disperso e atomizado.  
+3. Responsabilidade diluída.  
+4. Disciplina partidária inexistente.  
+5. Gabinetes incapazes de agir com rapidez e decisão.  
+6. Coalizões incertas, sempre sujeitas a colapso.  
+7. Incapacidade de falar e agir com clareza e unidade.  
+
+## Síntese da seção
+
+- O governo de assembleia é a versão mais instável do parlamentarismo.  
+- Representa um risco de ingovernabilidade, sobretudo em sistemas multipartidários.  
+- Experiências históricas mostram que tende a abrir espaço para regimes autoritários.  
+- Por isso, reformas institucionais buscaram **racionalizar o parlamentarismo** e evitar o assembleísmo.
+
+
+## Sistema semipresidencial: origem
+
+- Surge na **República de Weimar** (Alemanha, 1919), mas ganha força com a Constituição francesa de 1958.  
+- Propõe-se como um **híbrido** entre presidencialismo e parlamentarismo.  
+- Busca equilibrar:  
+  - Um presidente eleito com poderes relevantes.  
+  - Um primeiro-ministro responsável perante o parlamento.  
+
+## Estrutura dual de poder
+
+- O presidente não é apenas chefe de Estado simbólico:  
+  - Nomeia o primeiro-ministro.  
+  - Pode dissolver o parlamento.  
+  - Pode convocar referendos.  
+  - Possui atribuições em defesa e política externa.  
+- O primeiro-ministro e o gabinete respondem ao parlamento, conduzindo a administração cotidiana.  
+
+## Funcionamento prático
+
+- Duas situações principais:  
+  - **Maioria parlamentar alinhada ao presidente** → presidente torna-se figura dominante, PM atua em sintonia.  
+  - **Maioria parlamentar de oposição** → ocorre a **coabitação**: presidente mantém funções mais limitadas, e o PM governa com apoio parlamentar.  
+- A França viveu longos períodos de presidencialismo forte, mas também enfrentou coabitação.  
+
+## Experiências internacionais
+
+- **Portugal (1976)**: modelo inspirado na França, mas com conflitos de poder entre presidente e parlamento.  
+  - Revisão constitucional de 1982 reduziu os poderes presidenciais, aproximando-se do parlamentarismo clássico.  
+- **Outros países** adotaram variantes semipresidenciais, adaptando o equilíbrio de poderes às suas realidades políticas.  
+
+## Avaliação do sistema
+
+- Vantagens:  
+  - Pode reduzir riscos de assembleísmo.  
+  - Permite flexibilidade institucional em momentos de crise.  
+- Desafios:  
+  - Possibilidade de conflitos entre presidente e primeiro-ministro.  
+  - Dificuldade de definir claramente responsabilidades.  
+
+## Síntese da seção
+
+- O semipresidencialismo combina características do presidencialismo e do parlamentarismo.  
+- Representa uma tentativa de equilibrar estabilidade com flexibilidade.  
+- Seu funcionamento depende do contexto político e da forma como se distribuem os poderes entre presidente, parlamento e primeiro-ministro.
+
+
+## O debate parlamentarismo x presidencialismo
+
+- A escolha entre parlamentarismo e presidencialismo não é apenas uma decisão técnica.  
+- Está presente em **momentos de redemocratização** e em **mudanças constitucionais**.  
+- É também tema de intenso debate acadêmico e político.  
+
+## Críticas ao presidencialismo
+
+- Juan Linz argumentou que o presidencialismo traz riscos para a democracia:  
+  - Mandatos fixos e rígidos → dificultam adaptação a crises políticas.  
+  - “Jogo de soma-zero”: quem perde a eleição fica excluído do poder até o próximo ciclo.  
+  - Possibilidade de governos minoritários com baixa governabilidade.  
+  - Incentivo ao populismo e a lideranças aventureiras.  
+
+## Defesas do presidencialismo
+
+- Autores como Shugart e Mainwaring destacam pontos positivos:  
+  - **Accountability**: presidente eleito diretamente pelo povo, com responsabilidade clara.  
+  - **Identificabilidade**: o eleitor sabe quem governará após a eleição.  
+  - Mandatos fixos oferecem previsibilidade e estabilidade.  
+  - O sistema pode funcionar bem em sociedades grandes e heterogêneas, especialmente na América Latina.  
+
+## Críticas ao parlamentarismo
+
+- Em sistemas multipartidários, pode gerar:  
+  - Coalizões frágeis e instáveis.  
+  - Assembleísmo, com queda frequente de gabinetes.  
+  - Responsabilidade difusa, reduzindo a accountability.  
+- Em contextos de fragmentação, dificulta formar maiorias duradouras.  
+
+## Comparação geral
+
+- **Parlamentarismo**:  
+  - + Flexibilidade para lidar com crises.  
+  - – Risco de instabilidade em sistemas multipartidários.  
+- **Presidencialismo**:  
+  - + Estabilidade dos mandatos, accountability direta.  
+  - – Risco de impasses entre Executivo e Legislativo.  
+- **Semipresidencialismo**:  
+  - Modelo intermediário, com vantagens e tensões próprias.  
+
+## Conclusão do debate
+
+- Não existe sistema universalmente superior.  
+- O desempenho de cada modelo depende:  
+  - Da **cultura política**.  
+  - Do **sistema partidário**.  
+  - Do **desenho constitucional**.  
+- A experiência histórica mostra que a adaptação institucional é mais decisiva que a forma pura do regime.
